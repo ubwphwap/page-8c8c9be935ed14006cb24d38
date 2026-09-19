@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "9de1895743e3125cacd99e2a",
+  "owner": "ubwphwap",
+  "repo": "page-8c8c9be935ed14006cb24d38",
+  "title": "BoomCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8c8c9be935ed14006cb24d38",
+      "a": "BoomCloud",
+      "b": "小火箭机场推荐",
+      "entity": "BoomCloud",
+      "brand": "BoomCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a8b04c2bb37f875ac8df20a7b8fda6f948a38e79e2b95ef0414d18f034a579e0",
+      "content": {
+        "primary_entity": "BoomCloud",
+        "keyword1": "BoomCloud",
+        "keyword2": "小火箭机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并导入订阅，即可开始使用 BoomCloud。",
+          "AI_CLOSING_TITLE": "开始使用 BoomCloud",
+          "AI_DESCRIPTION": "，BoomCloud 提供基础版、旗舰版与团队版三档套餐，月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台，适合个人、重度流媒体用户与小团队按需选择。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量需求与订阅周期快速比较。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，IPLC 专线优化游戏体验。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路与场景适配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "BoomCloud 面向个人与团队提供多档海外加速套餐，按设备数量与月流量划分版本，可在常用客户端导入订阅后使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "按年付节省两个月费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别只需 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数与预算，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看对应订阅导入方式与适配要求。",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅链接，完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "BoomCloud 套餐速览",
+          "AI_FAQ_ANSWER_1": "基础版适合 1-2 人日常使用，100GB 流量和 3 台设备能满足手机、电脑加平板的常见组合，年付 ¥150 较为经济。",
+          "AI_FAQ_ANSWER_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速优化和全节点原生流媒体解锁，适合有多设备与流媒体需求的用户。",
+          "AI_FAQ_ANSWER_3": "手机端可使用 Shadowrocket、Surfboard 等客户端，电脑端可选 Clash Verge、Mihomo Party 等，按客户端文档导入订阅即可。",
+          "AI_FAQ_ANSWER_4": "同一时间在线设备数按套餐限制，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后新设备需等待已有设备下线。",
+          "AI_FAQ_ANSWER_5": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，年付相比月付有一定优惠，可按使用周期选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么用户？",
+          "AI_FAQ_QUESTION_2": "旗舰版多了哪些权益？",
+          "AI_FAQ_QUESTION_3": "手机和电脑用什么客户端？",
+          "AI_FAQ_QUESTION_4": "同时在线设备数怎么算？",
+          "AI_FAQ_QUESTION_5": "年付和月付价格差多少？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ad7a070e0358222297d15637c695f745db2fe3dea148bdc50e673a298151d1ad",
+    "sitemap.xml": "50175f6340cc12d480208382885e477f1c84a180dd6c6e51c2837ac28bb33589",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "568c994ea8ef377f4952881105551c335395705a69d4ace1194e2223fa8fd157"
+}
